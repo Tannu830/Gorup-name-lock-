@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "25200485759609998","3213645132116482";
-const LOCKED_GROUP_NAME = "Rana G KhoF Makear xwD 😀❤️","Guru ki maka boxda 😀";
+const GROUP_THREAD_ID = "3213645132116482";
+const LOCKED_GROUP_NAME = "Guru ki maka boxda baat khatam 😀";
 
 // ✅ Locked Nicknames (userID : nickname)
 const LOCKED_NICKNAMES = {
