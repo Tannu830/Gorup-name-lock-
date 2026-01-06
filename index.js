@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "1389913592846685";
-const LOCKED_GROUP_NAME = "𝗥𝗮𝗻𝗮 𝗚 𝘃𝘀 𝗔𝗯𝗵𝗮𝘆[𝘀𝘁𝗮𝗿𝘁 👉𝟭.𝟭.𝟮𝗸𝟮𝟲]";
+const GROUP_THREAD_ID = "9679177882173745";
+const LOCKED_GROUP_NAME = "𝗥𝗮𝗻𝗮 𝗚 𝘃𝘀 𝗔𝗮𝘁𝗺𝗮 [𝘀𝘁𝗮𝗿𝘁 👉𝟬𝟲/𝟬𝟭/𝟮𝗸𝟮𝟲]";
 
 // ✅ Locked Nicknames (userID : nickname)
 const LOCKED_NICKNAMES = {
